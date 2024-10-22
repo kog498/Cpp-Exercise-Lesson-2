@@ -24,5 +24,14 @@
     <ClCompile Include="BTH2_Bai09.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BTH2_Bai10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH2_Bai11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH2_Bai12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

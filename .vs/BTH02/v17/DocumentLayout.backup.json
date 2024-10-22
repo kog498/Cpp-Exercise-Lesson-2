@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HA-PC\\Dropbox\\PC\\Desktop\\Learn to Code\\C\u002B\u002B Exercises\\Exercise 2\\BTH02\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7649BE52-219D-4CBC-A9DF-36A56DEC7F58}|BTH02.vcxproj|C:\\Users\\HA-PC\\Dropbox\\PC\\Desktop\\Learn to Code\\C\u002B\u002B Exercises\\Exercise 2\\BTH02\\BTH2_Bai11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7649BE52-219D-4CBC-A9DF-36A56DEC7F58}|BTH02.vcxproj|solutionrelative:BTH2_Bai11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7649BE52-219D-4CBC-A9DF-36A56DEC7F58}|BTH02.vcxproj|C:\\Users\\HA-PC\\Dropbox\\PC\\Desktop\\Learn to Code\\C\u002B\u002B Exercises\\Exercise 2\\BTH02\\BTH2_Bai10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7649BE52-219D-4CBC-A9DF-36A56DEC7F58}|BTH02.vcxproj|solutionrelative:BTH2_Bai10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BTH2_Bai11.cpp",
+              "DocumentMoniker": "C:\\Users\\HA-PC\\Dropbox\\PC\\Desktop\\Learn to Code\\C\u002B\u002B Exercises\\Exercise 2\\BTH02\\BTH2_Bai11.cpp",
+              "RelativeDocumentMoniker": "BTH2_Bai11.cpp",
+              "ToolTip": "C:\\Users\\HA-PC\\Dropbox\\PC\\Desktop\\Learn to Code\\C\u002B\u002B Exercises\\Exercise 2\\BTH02\\BTH2_Bai11.cpp",
+              "RelativeToolTip": "BTH2_Bai11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T14:45:53.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BTH2_Bai10.cpp",
+              "DocumentMoniker": "C:\\Users\\HA-PC\\Dropbox\\PC\\Desktop\\Learn to Code\\C\u002B\u002B Exercises\\Exercise 2\\BTH02\\BTH2_Bai10.cpp",
+              "RelativeDocumentMoniker": "BTH2_Bai10.cpp",
+              "ToolTip": "C:\\Users\\HA-PC\\Dropbox\\PC\\Desktop\\Learn to Code\\C\u002B\u002B Exercises\\Exercise 2\\BTH02\\BTH2_Bai10.cpp",
+              "RelativeToolTip": "BTH2_Bai10.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T14:38:32.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

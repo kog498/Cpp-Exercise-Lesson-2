@@ -22,6 +22,9 @@
     <ClCompile Include="BTH2_Bai07.cpp" />
     <ClCompile Include="BTH2_Bai08.cpp" />
     <ClCompile Include="BTH2_Bai09.cpp" />
+    <ClCompile Include="BTH2_Bai10.cpp" />
+    <ClCompile Include="BTH2_Bai11.cpp" />
+    <ClCompile Include="BTH2_Bai12.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
